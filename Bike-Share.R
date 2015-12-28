@@ -1,6 +1,6 @@
-setwd("E:\\Rdataset\\HW1-ExploratoryData-Nyt\\BIKE")
+setwd("E:\\HW1-ExploratoryData-Nyt\\BIKE")
 
-file<-read.csv("E:\\Rdataset\\HW1-ExploratoryData-Nyt\\BIKE\\day.csv",
+file<-read.csv("E:\\HW1-ExploratoryData-Nyt\\BIKE\\day.csv",
                stringsAsFactors=FALSE,
                strip.white=TRUE,
                na.strings=c("NA",""))
